@@ -1,5 +1,5 @@
 import requests
-from lib.generate_log import generate_log
+from generate_log import generate_log
 
 def fetch_data():
     """

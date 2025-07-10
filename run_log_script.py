@@ -1,4 +1,4 @@
-from lib.generate_log import generate_log
+from generate_log import generate_log
 
 if __name__ == "__main__":
     # Example log data
